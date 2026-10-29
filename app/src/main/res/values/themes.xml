@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Obxodik" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/accent</item>
+        <item name="colorSecondary">@color/accent_2</item>
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="materialCardViewStyle">@style/Widget.Obxodik.Card</item>
+    </style>
+
+    <style name="Widget.Obxodik.Card" parent="Widget.Material3.CardView.Filled">
+        <item name="cardBackgroundColor">@color/surface</item>
+        <item name="cardCornerRadius">18dp</item>
+        <item name="cardElevation">0dp</item>
+        <item name="strokeColor">@color/line</item>
+        <item name="strokeWidth">1dp</item>
+    </style>
+
+    <style name="Widget.Obxodik.Button" parent="Widget.Material3.Button.TonalButton">
+        <item name="cornerRadius">12dp</item>
+    </style>
+
+    <style name="Widget.Obxodik.TextButton" parent="Widget.Material3.Button.TextButton">
+        <item name="android:textColor">@color/muted</item>
+    </style>
+</resources>
