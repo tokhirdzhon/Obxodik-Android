@@ -1,6 +1,6 @@
 # Obxodik Android
 
-**Windows-версия:** [Obxodik-Windows](https://github.com/tokhirdzhon/Obxodik-Windows)  
+**Windows-версия:** [Obxodik-Windows](https://github.com/tokhirdzhon/Obxodik-Windows) · [Скачать EXE](https://github.com/tokhirdzhon/Obxodik-Windows/releases/latest)  
 **Скачать APK:** [Obxodik-Android-1.0.0.apk](https://github.com/tokhirdzhon/Obxodik-Android/releases/latest)
 
 Мобильная версия Obxodik для **YouTube**, **Discord** и **Telegram** на Android 10+.
